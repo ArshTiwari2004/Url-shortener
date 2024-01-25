@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+input {
+    width: 80%;
+    padding: 8px;
+    margin: 8px 0;
+}
+
+button {
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+#shortUrl {
+    font-weight: bold;
+    color: green;
+}
