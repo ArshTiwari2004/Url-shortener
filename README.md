@@ -1,6 +1,6 @@
-# URL Shortener Project
+# URL Shortener
 
-This is a basic URL shortener project created using HTML, CSS, and JavaScript.
+URL shortener project created using HTML, CSS, and JavaScript
 
 ## Project Structure
 
@@ -20,4 +20,8 @@ This is a basic URL shortener project created using HTML, CSS, and JavaScript.
 ## About the Shortening Logic
 
 The URL shortening logic in `script.js` is a basic simulation. In a production environment, you would implement a secure and unique shortening algorithm on the server-side.
+
+Commands :
+npm i
+npm run dev
 
